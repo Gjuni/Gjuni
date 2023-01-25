@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Gjuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjuni&show_icons=true&theme=highcontrast)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kmj0601)](https://solved.ac/kmj0601)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=Demo&theme=cobalt)
