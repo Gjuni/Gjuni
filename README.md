@@ -24,5 +24,5 @@
   </a>
   <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
 </p>
-<p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=swift" alt="GitHub Streak" /></a></a></p>
+<p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
