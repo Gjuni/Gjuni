@@ -30,8 +30,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Raccoon gif" width="150" />
-</p>
