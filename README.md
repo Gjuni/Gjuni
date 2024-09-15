@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni" alt="GitHub Streak" /></a></p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=compact">
