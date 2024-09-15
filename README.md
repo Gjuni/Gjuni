@@ -1,21 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Gjuni/Gjuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=compact"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Gjuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjuni&show_icons=true&theme=highcontrast)  
+<h2 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 24px;">
+  💻Studying💻
+</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kmj0601)](https://solved.ac/kmj0601)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=pie)](https://github.com/Gjuni/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gjuni&show_icons=true&theme=highcontrast" height="150" />
+</p>
+
+<h3 align="center">🏆 BeakJoon</h3>
+
+<p align="center">
+  <a href="https://solved.ac/kmj0601">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kmj0601" height="150" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Raccoon gif" width="150" />
+</p>
