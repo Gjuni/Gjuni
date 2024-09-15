@@ -26,7 +26,12 @@
 </p>
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Gjuni/Gjuni/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gjuni/Gjuni/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Gjuni/Gjuni/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
