@@ -26,5 +26,5 @@
 </p>
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
