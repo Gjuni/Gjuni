@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gjuni&layout=compact" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gjuni&show_icons=true&theme=highcontrast" height="150" />
 </p>
 <hr><hr/>
@@ -25,9 +23,6 @@
       <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjuni" height="150" />
     </a>
   </a>
-</p>
-<p align = "center">
-  <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
 </p>
 
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
