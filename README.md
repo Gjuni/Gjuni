@@ -20,14 +20,14 @@
 
 <p align="center">
   <a href="https://solved.ac/kmj0601">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kmj0601" height="150" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj0601" height="150" />
+    <a href="https://solved.ac/gjuni/">
+      <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjuni" height="150" />
+    </a>
   </a>
-  <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
 </p>
-<p align="center">
-  <a href="https://solved.ac/gjuni/">
-  <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjuni" height="150" />
-  </a>
+<p align = "center">
+  <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
 </p>
 
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
