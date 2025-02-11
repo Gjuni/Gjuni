@@ -26,6 +26,8 @@
 </p>
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjuni)](https://solved.ac/gjuni/)
+
 <hr>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
