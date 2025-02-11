@@ -3,17 +3,20 @@
   <img src="https://github.com/user-attachments/assets/a0689534-c4ed-49e6-87cf-17dff33a5b89" width="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gjuni&show_icons=true&theme=highcontrast" height="150" />
 </p>
-<hr><hr/>
+<hr>
 <h2 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 24px;">
-  💻Studying💻
+  📚 STACKS
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  
 </p>
-<hr><hr/>
+<hr>
 <h3 align="center">🏆 BeakJoon</h3>
 
 <p align="center">
@@ -29,6 +32,4 @@
 
 <hr>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
