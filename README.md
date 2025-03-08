@@ -16,6 +16,19 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   
 </p>
+
+<div align="center">
+
+##### • Studying •
+
+<a href="https://congruous-porpoise-103.notion.site/1b079bdfce5a80f28728e01da89353e8?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Self%20Study-Click%20Here-blue?style=for-the-badge&logo=notion" alt="Self Study">
+</a>
+
+</div>
+
+
+
 <hr>
 <h3 align="center">🏆 BeakJoon</h3>
 
