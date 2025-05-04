@@ -45,3 +45,10 @@
 <p align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gjuni&theme=flag-india" alt="GitHub Streak" /></a></a></a></p>
 
 
+<hr>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gjuni&theme=high-contrast&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </a>
+</p>
