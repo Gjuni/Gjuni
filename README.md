@@ -1,5 +1,4 @@
 
----
 
 ### 📚 Tech Stacks
 
@@ -35,6 +34,7 @@
 
 | 시기 | 수상 | 한줄 요약 | Repo |
 | :---: | --- | --- | :---: |
+|2026.04 ~ 05 | Judgement Day **20th**/165 | Multi Modal Prompt Injection | [Judgement Day - AI Red Team Arena](https://judgementday.aim-intelligence.com/arena) |
 | 2026.01 ~ 03 | SK Rookies 프로젝트 **1등** | AI Scanner & GuardRail 구축 | [LLM](https://github.com/SK-Shielders-Final-Project/llm3), [Scanner](https://github.com/SK-Shielders-Final-Project/llmscanner) |
 | 2025.10 | 이공계 국가우수장학생 선정 | 대학 성적 + 수상실적 기반 | - |
 | 2025.06 ~ 08 | UMC Coffect **3등** | 데모데이 프로젝트, 개발자 커피챗 앱 | [Coffect](https://github.com/Gjuni) |
