@@ -51,7 +51,7 @@
 | :---: | --- | --- | :---: |
 |2026.08.14 ~ 2026.08.21 | GraySwan:IPI Lucky Break **16th**/491 (20 Breaks) | Indirect Prompt Injection | [IPI Lucky Break](https://app.grayswan.ai/arena/challenge/ipi-lucky-break-aug) |
 |2026.08.07 ~ 2026.08.09 | DEFCON 34 **9th**/12 | Attack&Defense | [DEFCON 34](https://defcon.org/) |
-|2026.08.05 ~ 2026.08.12 | GraySwan:Indirect Prompt Injection August '26 **43th**/811 (86 Breaks) | Indirect Prompt Injection | [Indirect Prompt Injection August '26](https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
+|2026.08.05 ~ 2026.08.12 | GraySwan:Indirect Prompt Injection August '26 **43th**/811 (86 Breaks) | Indirect Prompt Injection | [https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
 |2026.08.01 ~ 2026.08.02 | L3ak **--**/710 (Ban먹음) | Web Vulnerability & OSINT | [L3ak](https://ctf.l3ak.team/challenges) |
 |2026.07.27 ~ 2026.08.02 | GraySwan:Indirect Prompt Injection July '26 **27th**/473 (83 Breaks) | Indirect Prompt Injection | [Indirect Prompt Injection July '26](https://app.grayswan.ai/arena/challenge/ipi-july-2026) |
 |2026.07.08 | Judgement Day **12th**/50 | Physical AI Prompt Injection | [Judgement Day - Physical AI](http://211.115.110.156:9443/leaderboard) |
