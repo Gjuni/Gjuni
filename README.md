@@ -24,15 +24,16 @@
 
 ### 🎓 Experience
 
-| | 기간 | 내용 | 소속 |
-| :---: | :---: | --- | :---: |
-| 🛡️ | 2026.03 ~ | EQST Lab AI 파트 | SK Shieldus |
-| 🛡️ | 2025.09 ~ 2026.03 | 클라우드기반 스마트 융합보안 과정 27기 | SK Rookies |
-| 🏕️ | 2025.03 ~ 2025.09 | UMC NODE 8기 파트장 | 상명대 UMC |
-| ☁️ | 2025.03 ~ 2025.05 | AWS Cloud Computing 멘토 | Inyro |
-| 🏕️ | 2024.09 ~ 2024.12 | UMC NODE 7기 수료 | 상명대 UMC |
-| ☁️ | 2024.08 | 농심 Data System AWS 아키텍쳐 교육 | NDS (농심 데이터센터) |
-| 🏫 | 2020.03 ~ | 컴퓨터과학과 재학 | 상명대학교 |
+|       | 기간              | 내용                                   | 소속                  |
+| :---: | :---:             | ---                                    | :---:                 |
+| 🛡️    | 2026.03 ~         | EQST Lab AI 파트                       | SK Shieldus           |
+| 🛡️    | 2025.09 ~ 2026.03 | 클라우드기반 스마트 융합보안 과정 27기 | SK Rookies            |
+| 🏕️    | 2025.03 ~ 2025.09 | UMC NODE 8기 파트장                    | 상명대 UMC            |
+| 💌    | 2025.03 ~ 2025.05 | SMU Signal 개발 (Side Project)         | 상명대 UMC            |
+| ☁️    | 2025.03 ~ 2025.05 | AWS Cloud Computing 멘토               | Inyro                 |
+| 🏕️    | 2024.09 ~ 2024.12 | UMC NODE 7기 수료                      | 상명대 UMC            |
+| ☁️    | 2024.08           | 농심 Data System AWS 아키텍쳐 교육     | NDS (농심 데이터센터) |
+| 🏫    | 2020.03 ~         | 컴퓨터과학과 재학                      | 상명대학교            |
 
 ---
 
@@ -44,7 +45,6 @@
 | 🥇 **1등** | SK Rookies 프로젝트 | AI Scanner & GuardRail 구축 | 2026.01 ~ 03 | [LLM](https://github.com/SK-Shielders-Final-Project/llm3) · [Scanner](https://github.com/SK-Shielders-Final-Project/llmscanner) |
 | 🎖️ **선정** | 이공계 국가우수장학생 | 대학 성적 + 수상 실적 기반 | 2025.10 | – |
 | 🥉 **3등** | UMC Coffect 데모데이 | 개발자 커피챗 앱 | 2025.06 ~ 08 | [🔗](https://github.com/Gjuni) |
-| – | 스뮤 시그널 | 축제 매칭 서비스 (Node.js + 이메일 인증) | 2025.03 ~ 05 | [🔗](https://github.com/Gjuni/UMCIGNAL-server) |
 | 🥇 **1등** | 치앙마이 해커톤 | 인하대·충북대·상명대 연합 / Net Zero · PM·배포·발표 | 2024.12 | [🔗](https://github.com/Gjuni/CMU-Hackathon) |
 | 🥉 **3등** | 농심 NDS AWS | 아키텍처 설계 평가 | 2024.08 | [🔗](https://github.com/Gjuni) |
 | 🥈 **2등** | Elastic & AWS 프로젝트 | 항공 데이터 기반 여행지/수출 추천 | 2023.02 ~ 03 | [🔗](https://github.com/Gjuni) |
