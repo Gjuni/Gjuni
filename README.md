@@ -1,13 +1,19 @@
-
-
 ### 📚 Tech Stacks
 
+**Backend & Infra**
 <p>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+**AI Security**
+<p>
+  <img src="https://img.shields.io/badge/AI%20Penetration%20Testing-E11D48?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Prompt%20Injection-8B0000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM%20GuardRail-5A189A?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <a href="https://congruous-porpoise-103.notion.site/1b079bdfce5a80f28728e01da89353e8?pvs=4" target="_blank">
@@ -32,27 +38,27 @@
 
 ### 🏆 Awards
 
-| 시기 | 수상 | 한줄 요약 | Repo |
-| :---: | --- | --- | :---: |
-|2026.04 ~ 05 | Judgement Day **20th**/165 | MultiModal Prompt Injection | [Judgement Day - AI Red Team Arena](https://judgementday.aim-intelligence.com/arena) |
-| 2026.01 ~ 03 | SK Rookies 프로젝트 **1등** | AI Scanner & GuardRail 구축 | [LLM](https://github.com/SK-Shielders-Final-Project/llm3), [Scanner](https://github.com/SK-Shielders-Final-Project/llmscanner) |
-| 2025.10 | 이공계 국가우수장학생 선정 | 대학 성적 + 수상실적 기반 | - |
-| 2025.06 ~ 08 | UMC Coffect **3등** | 데모데이 프로젝트, 개발자 커피챗 앱 | [Coffect](https://github.com/Gjuni) |
-| 2025.03 ~ 05 | 스뮤 시그널 | 축제 매칭 서비스 개발 (Node.js + 이메일 인증) | [UMCIGNAL-server](https://github.com/Gjuni/UMCIGNAL-server) |
-| 2024.12 | 치앙마이 해커톤 **1등** | 인하대·충북대·상명대 연합, Net Zero 주제. PM/배포/발표 | [CMU-Hackathon](https://github.com/Gjuni/CMU-Hackathon) |
-| 2024.08 | 농심 NDS AWS **3등** | 아키텍처 설계 평가 | [NDS Summary](https://github.com/Gjuni) |
-| 2023.02 ~ 03 | Elastic & AWS 프로젝트 **2등** | 항공 데이터 기반 여행지/수출 추천 | [Elastic Project](https://github.com/Gjuni) |
+| 등수 | 수상명 | 내용 | 기간 | Repo |
+| :---: | --- | --- | :---: | :---: |
+| 🥇 **1등** | 캡스톤 경진대회 AI활용 부문 | SMU CHAT BOT | 2026.03 ~ 09 | [🔗](https://dormitory.smu.ac.kr/cs/community/sm_notice.do?mode=view&articleNo=767631&article.offset=0&articleLimit=10) |
+| 🥇 **1등** | SK Rookies 프로젝트 | AI Scanner & GuardRail 구축 | 2026.01 ~ 03 | [LLM](https://github.com/SK-Shielders-Final-Project/llm3) · [Scanner](https://github.com/SK-Shielders-Final-Project/llmscanner) |
+| 🎖️ **선정** | 이공계 국가우수장학생 | 대학 성적 + 수상 실적 기반 | 2025.10 | – |
+| 🥉 **3등** | UMC Coffect 데모데이 | 개발자 커피챗 앱 | 2025.06 ~ 08 | [🔗](https://github.com/Gjuni) |
+| – | 스뮤 시그널 | 축제 매칭 서비스 (Node.js + 이메일 인증) | 2025.03 ~ 05 | [🔗](https://github.com/Gjuni/UMCIGNAL-server) |
+| 🥇 **1등** | 치앙마이 해커톤 | 인하대·충북대·상명대 연합 / Net Zero · PM·배포·발표 | 2024.12 | [🔗](https://github.com/Gjuni/CMU-Hackathon) |
+| 🥉 **3등** | 농심 NDS AWS | 아키텍처 설계 평가 | 2024.08 | [🔗](https://github.com/Gjuni) |
+| 🥈 **2등** | Elastic & AWS 프로젝트 | 항공 데이터 기반 여행지/수출 추천 | 2023.02 ~ 03 | [🔗](https://github.com/Gjuni) |
 
 ---
 
 ### 🌍 Competition
 
-| 시기 | 등수 | 한줄 요약 | Repo |
-| :---: | --- | --- | :---: |
-|2026.08.14 ~ 2026.08.21 | GraySwan:IPI Lucky Break **16th**/491 (20 Breaks) | Indirect Prompt Injection | [IPI Lucky Break](https://app.grayswan.ai/arena/challenge/ipi-lucky-break-aug) |
-|2026.08.07 ~ 2026.08.09 | DEFCON 34 **9th**/12 | Attack&Defense | [DEFCON 34](https://defcon.org/) |
-|2026.08.05 ~ 2026.08.12 | GraySwan:Indirect Prompt Injection August '26 **43th**/811 (86 Breaks) | Indirect Prompt Injection | [Indirect Prompt Injection August '26](https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
-|2026.08.01 ~ 2026.08.02 | L3ak **--**/710 (Ban먹음) | Web Vulnerability & OSINT | [L3ak](https://ctf.l3ak.team/challenges) |
-|2026.07.27 ~ 2026.08.02 | GraySwan:Indirect Prompt Injection July '26 **27th**/473 (83 Breaks) | Indirect Prompt Injection | [Indirect Prompt Injection July '26](https://app.grayswan.ai/arena/challenge/ipi-july-2026) |
-|2026.07.08 | Judgement Day **12th**/50 | Physical AI Prompt Injection | [Judgement Day - Physical AI](http://211.115.110.156:9443/leaderboard) |
-|2026.04 ~ 05 | Judgement Day **20th**/165 | MultiModal Prompt Injection | [Judgement Day - AI Red Team Arena](https://judgementday.aim-intelligence.com/arena) |
+| 대회명 | 기간 | 대회 내용 | 등수 | Breaks | 링크 |
+| --- | :---: | --- | :---: | :---: | :---: |
+| **GraySwan** · IPI Lucky Break | 2026.08.14 ~ 08.21 | Indirect Prompt Injection | **16위** / 491 | 20 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-lucky-break-aug) |
+| **DEFCON 34** | 2026.08.07 ~ 08.09 | Attack & Defense | **9위** / 12 | -- | [🔗](https://defcon.org/) |
+| **GraySwan** · IPI August '26 | 2026.08.05 ~ 08.12 | Indirect Prompt Injection | **43위** / 811 | 86 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
+| **L3ak CTF** | 2026.08.01 ~ 08.02 | Web Vulnerability & OSINT | 실격 (Ban) | -- | [🔗](https://ctf.l3ak.team/challenges) |
+| **GraySwan** · IPI July '26 | 2026.07.27 ~ 08.02 | Indirect Prompt Injection | **27위** / 473 | 83 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-july-2026) |
+| **Judgement Day** · Physical AI | 2026.07.08 | Physical AI Prompt Injection | **12위** / 50 | -- | [🔗](http://211.115.110.156:9443/leaderboard) |
+| **Judgement Day** · AI Red Team Arena | 2026.04 ~ 05 | MultiModal Prompt Injection | **20위** / 165 | -- | [🔗](https://judgementday.aim-intelligence.com/arena) |
