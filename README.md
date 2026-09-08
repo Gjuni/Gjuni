@@ -55,6 +55,8 @@
 
 | 대회명 | 기간 | 대회 내용 | 등수 | Breaks | 링크 |
 | --- | :---: | --- | :---: | :---: | :---: |
+| **BlackHat MEA** Qualification CTF 2026 | 2026.09.05 ~ 09.06 | Web Vulnerability | **90위** / 100 | 2 | [🔗](https://flagyard.com/events/3468f495-a92c-498b-90c2-994dfb99ea0b) |
+| 첨단AI 디지털 **의료제품** 레드팀 챌린지 | 2026.09.03 | Medical Prompt Injection | **10위** / 54 | -- | [🔗](https://www.medrtc.org/html/) |
 | **GraySwan** · IPI Lucky Break | 2026.08.14 ~ 08.21 | Indirect Prompt Injection | **16위** / 491 | 20 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-lucky-break-aug) |
 | **DEFCON 34** | 2026.08.07 ~ 08.09 | Attack & Defense | **9위** / 12 | -- | [🔗](https://defcon.org/) |
 | **GraySwan** · IPI August '26 | 2026.08.05 ~ 08.12 | Indirect Prompt Injection | **43위** / 811 | 86 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
