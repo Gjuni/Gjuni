@@ -62,5 +62,5 @@
 | **GraySwan** · IPI August '26 | 2026.08.05 ~ 08.12 | Indirect Prompt Injection | **43위** / 811 | 86 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-aug-2026) |
 | **L3ak CTF** | 2026.08.01 ~ 08.02 | Web Vulnerability & OSINT | 실격 (Ban) | -- | [🔗](https://ctf.l3ak.team/challenges) |
 | **GraySwan** · IPI July '26 | 2026.07.27 ~ 08.02 | Indirect Prompt Injection | **27위** / 473 | 83 | [🔗](https://app.grayswan.ai/arena/challenge/ipi-july-2026) |
-| **Judgement Day** · Physical AI | 2026.07.08 | Physical AI Prompt Injection | **12위** / 50 | -- | [🔗](http://211.115.110.156:9443/leaderboard) |
-| **Judgement Day** · AI Red Team Arena | 2026.04 ~ 05 | MultiModal Prompt Injection | **20위** / 165 | -- | [🔗](https://judgementday.aim-intelligence.com/arena) |
+| **Judgement Day** · Physical AI | 2026.07.08 | Physical AI Prompt Injection | **12위** / 50 | 2 | [🔗](http://211.115.110.156:9443/leaderboard) |
+| **Judgement Day** · AI Red Team Arena | 2026.04 ~ 05 | MultiModal Prompt Injection | **20위** / 165 | 104 | [🔗](https://judgementday.aim-intelligence.com/arena) |
