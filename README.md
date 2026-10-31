@@ -55,7 +55,7 @@
 
 | 대회명 | 기간 | 대회 내용 | 등수 | Breaks | 링크 |
 | --- | :---: | --- | :---: | :---: | :---: |
-| **ACDC 2026** | 2026.10.31 | AI Cyber Defense Contest | **10위** / 143 |  | [🔗](https://gen.acdc2026.ai.kr/scoreboard) |
+| **ACDC 2026** | 2026.10.31 | AI Cyber Defense Contest | **10위** / 143 | KoTH | [🔗](https://gen.acdc2026.ai.kr/scoreboard) |
 | **Gaian Spcae** | 2026.10.11 ~ 10.15 | Space & Satellite Security CTF | **16위** / 103 | 62 | [🔗](https://ctf.gaian.space/scoreboard) |
 | **Gray Swan** Hazard Hunt: Chem, Bio, Cyber, Misc | 2026.08.26 ~ 09.12 | Chemical, Biology, Cyber Prompt Injection | **17위** / 923 | 573 | [🔗](https://app.grayswan.ai/arena/challenge/hazard-hunt-q3) |
 | **BlackHat MEA** Qualification CTF 2026 | 2026.09.05 ~ 09.06 | Web Vulnerability | **90위** / 100 | 2 | [🔗](https://flagyard.com/events/3468f495-a92c-498b-90c2-994dfb99ea0b) |
