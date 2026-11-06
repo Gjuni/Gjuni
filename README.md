@@ -46,8 +46,8 @@
 | 🎖️ **선정** | 이공계 국가우수장학생 | 대학 성적 + 수상 실적 기반 | 2025.10 | – |
 | 🥉 **3등** | UMC Coffect 데모데이 | 개발자 커피챗 앱 | 2025.06 ~ 08 | [🔗](https://github.com/Gjuni) |
 | 🥇 **1등** | 치앙마이 해커톤 | 인하대·충북대·상명대 연합 / Net Zero · PM·배포·발표 | 2024.12 | [🔗](https://github.com/Gjuni/CMU-Hackathon) |
-| 🥉 **3등** | 농심 NDS AWS | 아키텍처 설계 평가 | 2024.08 | [🔗](https://github.com/Gjuni) |
-| 🥈 **2등** | Elastic & AWS 프로젝트 | 항공 데이터 기반 여행지/수출 추천 | 2023.02 ~ 03 | [🔗](https://github.com/Gjuni) |
+| 🥉 **3등** | 농심 NDS AWS | 아키텍처 설계 평가 | 2024.08 | [🔗](https://github.com/users/Gjuni/projects/4) |
+| 🥈 **2등** | Elastic & AWS 프로젝트 | 항공 데이터 기반 여행지/수출 추천 | 2023.02 ~ 03 | [🔗](https://github.com/users/Gjuni/projects/1) |
 
 ---
 
